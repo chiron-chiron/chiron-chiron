@@ -1,4 +1,4 @@
-## ⚒️ Tools & technologies proficiencies
+## ⚒️ Tools & technology proficiencies
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"></img>
 <img src="https://img.shields.io/badge/VBA-3F4F75?style=for-the-badge&logo=VBA&logoColor=lightgrey"></img>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></img>
@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></img>
 
 
-## ⚒️ Tools & technologies current skills development
+## ⚒️ Current skills development
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"></img></a>
 <img src="https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=white"></img>
